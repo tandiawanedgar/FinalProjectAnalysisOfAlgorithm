@@ -1,0 +1,14 @@
+0 Tanjung duren
+1 Arjuna Utara 
+2 Arteri Kelapa 2 raya
+3 Arteri permata hijau
+4 Asia Afrika
+5 Jendral Sudirman
+6 FX
+
+0-1 = 1km
+1-2 = 4km
+2-3 = 1km
+3-4 = 2km
+4-5 = 1km
+5-6 = 2km
